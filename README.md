@@ -4,7 +4,7 @@
 <h3 align="center">A passionate cross-platform developer</h3>
 <img align=right height=50% width =30% src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently Wokring as Software Engineer at **Capgemini**
 
 - 💬 Ask me about **Flutter,DSA,C++**
 
