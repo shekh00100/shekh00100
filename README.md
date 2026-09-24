@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/shekh00100">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=640&lines=Software+Development+Engineer+%40+Capgemini;Low-Level+Design+%7C+OOP+%7C+SOLID+%7C+Design+Patterns;Clean%2C+modular%2C+testable+code;C%2B%2B+%7C+Java+%7C+Python+%7C+Flutter;600%2B+LeetCode+problems+solved" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=640&lines=Software+Development+Engineer;Low-Level+Design+%7C+OOP+%7C+SOLID+%7C+Design+Patterns;Clean%2C+modular%2C+testable+code;C%2B%2B+%7C+Java+%7C+Python+%7C+Flutter;Always+learning%2C+always+building" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding" />
 
-- 💼 **Software Development Engineer at [Capgemini](https://www.capgemini.com)**, Mumbai (Sep 2024 – present)
+- 💼 **Software Development Engineer** based in Mumbai, India
 - 🧱 Focused on **Low-Level Design**: object-oriented design, SOLID principles, design patterns and clean, extensible code
 - ⚙️ Designed a **modular, object-oriented Python service** with structured logging and error handling that made loads **80% faster** and cut cloud cost to **$0**
 - 🛡️ Built **scalable, fault-tolerant** components (chunked processing for large payloads) and shipped them via **CI/CD** in Agile teams
@@ -96,7 +96,7 @@
   </a>
 </p>
 
-- 🧠 **600+** problems solved on [LeetCode](https://leetcode.com/shekh001) · **Pupil** on [Codeforces](https://codeforces.com/profile/shekh001)
+- 🧠 Regular problem solver on [LeetCode](https://leetcode.com/shekh001) · **Pupil** on [Codeforces](https://codeforces.com/profile/shekh001)
 - 🥇 **Top 5 of 1000+** at CODELOOP ENYUGMA 2022 (IIIT Bhagalpur)
 - 🏅 **9th nationally** at CODERUSH 2022
 - ✅ Cleared Round 1.1 of **Flipkart Grid 5.0**
