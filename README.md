@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/shekh00100">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=640&lines=Building+distributed+ETL+pipelines+%F0%9F%9A%80;Python+%7C+SQL+%7C+C%2B%2B+%7C+Snowflake+%7C+Azure;Flutter+apps+with+Supabase+%26+Firebase+%F0%9F%93%B1;AI+agents+that+automate+the+boring+parts+%F0%9F%A4%96;600%2B+LeetCode+problems+solved+%F0%9F%A7%A0" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=640&lines=Software+Development+Engineer+%40+Capgemini;Low-Level+Design+%7C+OOP+%7C+SOLID+%7C+Design+Patterns;Clean%2C+modular%2C+testable+code;C%2B%2B+%7C+Java+%7C+Python+%7C+Flutter;600%2B+LeetCode+problems+solved" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,32 +29,43 @@
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding" />
 
 - 💼 **Software Development Engineer at [Capgemini](https://www.capgemini.com)**, Mumbai (Sep 2024 – present)
-- ⚡ Built a **Python distributed ETL framework** into Snowflake that replaced Azure Data Factory + Functions: **80% faster loads at $0 cloud cost**
-- 🧩 Designed a **fault-tolerant 14 MB chunking** mechanism for large-scale distributed ingestion
+- 🧱 Focused on **Low-Level Design**: object-oriented design, SOLID principles, design patterns and clean, extensible code
+- ⚙️ Designed a **modular, object-oriented Python service** with structured logging and error handling that made loads **80% faster** and cut cloud cost to **$0**
+- 🛡️ Built **scalable, fault-tolerant** components (chunked processing for large payloads) and shipped them via **CI/CD** in Agile teams
 - 🤖 Automated technical documentation with **AI agents**, cutting pre-development effort by **95%+**
-- 📱 Ship cross-platform apps with **Flutter**, Supabase and Firebase
+- 📱 Build cross-platform apps with **Flutter**, Supabase and Firebase
 - 🎓 B.Tech ECE, **IIIT Bhagalpur** (2020–2024), CGPA 8.37
-- 💬 Ask me about **distributed data pipelines, DSA, C++, Flutter**
+- 💬 Ask me about **LLD, OOP, DSA, C++, Flutter**
 
 <br clear="right" />
 
 ## 🛠️ Tech stack
 
+**Engineering fundamentals**
+
+<p>
+  <img src="https://img.shields.io/badge/Low--Level%20Design-1E293B?style=for-the-badge" alt="Low-Level Design" />
+  <img src="https://img.shields.io/badge/OOP%20%26%20OOD-1E293B?style=for-the-badge" alt="OOP and OOD" />
+  <img src="https://img.shields.io/badge/SOLID-1E293B?style=for-the-badge" alt="SOLID" />
+  <img src="https://img.shields.io/badge/Design%20Patterns-1E293B?style=for-the-badge" alt="Design Patterns" />
+  <img src="https://img.shields.io/badge/DSA-1E293B?style=for-the-badge" alt="DSA" />
+  <img src="https://img.shields.io/badge/DBMS-1E293B?style=for-the-badge" alt="DBMS" />
+  <img src="https://img.shields.io/badge/Operating%20Systems-1E293B?style=for-the-badge" alt="Operating Systems" />
+</p>
+
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,dart&perline=10" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,c,js,dart&perline=10" alt="Languages" />
 </p>
 
-**Data, cloud & backend**
+**Backend & cloud**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,supabase,firebase,postgres,mysql&perline=10" alt="Data and cloud" />
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,postgres,mysql,azure&perline=10" alt="Backend and cloud" />
   <br />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
-  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Factory" />
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-117865?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric" />
   <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
 </p>
 
 **Apps, tools & workflow**
@@ -64,7 +75,6 @@
   <br />
   <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Control--M-5A2D82?style=for-the-badge" alt="Control-M" />
   <img src="https://img.shields.io/badge/Agile%20Scrum-6DB33F?style=for-the-badge" alt="Agile Scrum" />
 </p>
 
